@@ -1,0 +1,196 @@
+Initialize engine version: 5.1.2f1 (afd2369b692a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 760 (192-bit) (ID=0x118e)
+    Vendor:   NVIDIA
+    VRAM:     1475 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\intern\Documents\New Unity Project 1\ver1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\intern\Documents\New Unity Project 1\ver1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\intern\Documents\New Unity Project 1\ver1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\intern\Documents\New Unity Project 1\ver1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\intern\Documents\New Unity Project 1\ver1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\intern\Documents\New Unity Project 1\ver1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\intern\Documents\New Unity Project 1\ver1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\intern\Documents\New Unity Project 1\ver1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\intern\Documents\New Unity Project 1\ver1_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\intern\Documents\New Unity Project 1\ver1_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.042 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\intern\Documents\New Unity Project 1\ver1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\intern\Documents\New Unity Project 1\ver1_Data\Managed\System.dll (this message is harmless)
+{"user_id":244,"play_id":78,"state":"playing","role":"player"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.208036 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1059.
+Total: 0.377267 ms (FindLiveObjects: 0.057227 ms CreateObjectMapping: 0.020838 ms MarkObjects: 0.294536 ms  DeleteObjects: 0.004043 ms)
+
+{"turn_count":1,"watcher_count":0,"turn_player":243,"state":"playing"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+{"turn_count":1,"watcher_count":0,"turn_player":243,"state":"playing"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+{"turn_count":1,"watcher_count":0,"turn_player":243,"state":"playing"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+{"turn_count":1,"watcher_count":0,"turn_player":243,"state":"playing"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+{"turn_count":1,"watcher_count":0,"turn_player":243,"state":"playing"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+{"turn_count":1,"watcher_count":0,"turn_player":243,"state":"playing"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+ナンバー10の駒が1,3から
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+1,4に移動しました。今このマスにいるのはナンバー10の駒です。
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+get_id = 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+{"turn_count":1,"watcher_count":0,"turn_player":243,"state":"playing"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+{"turn_count":1,"watcher_count":0,"turn_player":243,"state":"playing"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+{"turn_count":1,"watcher_count":0,"turn_player":243,"state":"playing"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+{"turn_count":1,"watcher_count":0,"turn_player":243,"state":"playing"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+{"turn_count":1,"watcher_count":0,"turn_player":243,"state":"playing"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+{"turn_count":1,"watcher_count":0,"turn_player":243,"state":"playing"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+{"turn_count":1,"watcher_count":0,"turn_player":243,"state":"playing"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+{"turn_count":1,"watcher_count":0,"turn_player":243,"state":"playing"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+{"turn_count":1,"watcher_count":0,"turn_player":243,"state":"playing"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+{"turn_count":1,"watcher_count":0,"turn_player":243,"state":"playing"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+{"turn_count":1,"watcher_count":0,"turn_player":243,"state":"playing"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+{"turn_count":1,"watcher_count":0,"turn_player":243,"state":"playing"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+{"turn_count":1,"watcher_count":0,"turn_player":243,"state":"playing"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+{"turn_count":1,"watcher_count":0,"turn_player":243,"state":"playing"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+{"turn_count":1,"watcher_count":0,"turn_player":243,"state":"playing"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+{"turn_count":1,"watcher_count":1,"turn_player":243,"state":"playing"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+{"turn_count":1,"watcher_count":1,"turn_player":243,"state":"playing"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+{"turn_count":1,"watcher_count":1,"turn_player":243,"state":"playing"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+{"turn_count":1,"watcher_count":1,"turn_player":243,"state":"playing"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+[{"id":244,"user_id":244,"play_id":78,"role":"player","exit_flag":true,"created_at":"2015-08-14T06:05:17.000Z","updated_at":"2015-08-14T06:08:14.083Z"},{"id":78,"turn_player":243,"state":"exit","room_no":"110","created_at":"2015-08-14T06:05:08.000Z","updated_at":"2015-08-14T06:08:14.089Z","first_player":243,"last_player":244,"turn_count":1,"winner":243}]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Level 'login' (0) couldn't be loaded because it has not been added to the build settings.
+To add a level to the build settings use the menu File->Build Settings...
+ 
+(Filename:  Line: 290)
+
+{"turn_count":1,"watcher_count":1,"turn_player":243,"state":"exit"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+勝ちです
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+{"turn_count":1,"watcher_count":1,"turn_player":243,"state":"exit"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+勝ちです
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+{"turn_count":1,"watcher_count":1,"turn_player":243,"state":"exit"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+勝ちです
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+{"turn_count":1,"watcher_count":1,"turn_player":243,"state":"exit"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+勝ちです
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+{"turn_count":1,"watcher_count":1,"turn_player":243,"state":"exit"}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+勝ちです
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+

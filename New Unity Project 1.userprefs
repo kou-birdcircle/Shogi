@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\for_play\board_update.cs">
+    <Files>
+      <File FileName="Assets\script\for_play\movement_point_ver2.cs" Line="75" Column="38" />
+      <File FileName="Assets\script\for_play\play_pre.cs" Line="29" Column="5" />
+      <File FileName="Assets\script\for_play\unit_movement.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\for_play\get_unit_play.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\for_play\board_update.cs" Line="33" Column="6" />
+      <File FileName="Assets\script\for_play\unit_play.cs" Line="16" Column="2" />
+      <File FileName="Assets\script\for_play\movement_point.cs" Line="168" Column="4" />
+      <File FileName="Assets\script\for_play\Game_administration.cs" Line="63" Column="6" />
+      <File FileName="Assets\script\for_login\input_name.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\for_login\input_room_no.cs" Line="8" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
